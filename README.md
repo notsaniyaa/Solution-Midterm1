@@ -96,7 +96,6 @@ CoffeeShopSimulator/
 ![image](https://github.com/user-attachments/assets/080c77a1-aa25-4fe3-be69-e3c1e5026fe0)
 
 
----
 
 
 
